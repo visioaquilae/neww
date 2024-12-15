@@ -1,2 +1,2 @@
 # neww <br>
-<b>AUTHOR : MARSJUPITER</b>
+<strong>AUTHOR : MARSJUPITER</strong>
